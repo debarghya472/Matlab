@@ -1,5 +1,5 @@
 function Foucalt_Pendulum
-% This programme will numerically solve the equation of motion of a foucalt
+% This programme will numerically solve the equation of motion of a foucault
 % pendulum for different initial condition.
 TSPAN=linspace(0,10,10000);
 % Initial Condition for Pendulum
